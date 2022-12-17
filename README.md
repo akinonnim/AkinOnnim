@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkinOAkin
 - 👀 I’m interested in make programming something useful for my people
-- 🌱 I’m currently learning everything i think iseverything I think is useful
+- 🌱 Currently, learning everything I think is useful for my journey
 - 💞️ I’m looking to collaborate with other self-employed students
 - 📫 How to reach me : by git
 
