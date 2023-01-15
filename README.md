@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkinOAkin
+- 👋 Hi, I’m @AkinOnnim
 - 👀 I’m interested in make programming something useful for my people
 - 🌱 Currently, learning everything I think is useful for my journey
 - 💞️ I’m looking to collaborate with other self-employed students
