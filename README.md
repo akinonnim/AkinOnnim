@@ -3,7 +3,8 @@
 ###
 
 <p align="left">
-Hi, I'm Akin, A.K.A. Wesley!
+- Hi, I'm Akin, A.K.A. Wesley!
+  
 - 🔭 I’m currently working on **My personal projects, you can see then on my profile!**
 
 - 🌱 I’m currently learning **Java, Ruby, some of JS for frontend adventures and a lot of other things that are cool!**
