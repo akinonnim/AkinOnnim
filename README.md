@@ -10,6 +10,10 @@
 
 ###
 
+![snake gif](https://github.com/akinonnim/AkinOnnim/blob/output/github-contribution-grid-snake.svg)
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -48,3 +52,4 @@
 </div>
 
 ###
+
