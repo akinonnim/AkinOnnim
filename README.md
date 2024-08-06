@@ -2,7 +2,21 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+Hi, I'm Akin, A.K.A. Wesley!
+- 🔭 I’m currently working on **My personal projects, you can see then on my profile!**
+
+- 🌱 I’m currently learning **Java, Ruby, some of JS for frontend adventures and a lot of other things that are cool!**
+
+- 👯 I’m looking to collaborate on **opensource projects, or study projects to help other people!**
+
+- 👨‍💻 All of my projects are available at [https://github.com/akinonnim](https://github.com/akinonnim)
+
+- 📫 How to reach me **wesleyaalvesoliveira@outlook.com**
+
+- ⚡ Fun fact **I'm 26 years old and i'm constantly thinkin that i'm late for achieve some goals, but we keep trying!**
+
+</p>
 
 ###
 
