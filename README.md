@@ -1,7 +1,7 @@
 <h2 align="left">Hey! Welcome to my GitHub Account!</h2>
 
 ###
-![image](https://github.com/user-attachments/assets/4d63f4c0-96e1-43d7-8bde-3b3a91efcebd)
+
 
 <p align="left">
 - Hi, I'm Akin, A.K.A. Wesley!
@@ -17,6 +17,10 @@
 - 📫 How to reach me **wesleyaalvesoliveira@outlook.com**
 
 - ⚡ Fun fact **I'm 26 years old and i'm constantly thinkin that i'm late for achieve some goals, but we keep trying!**
+
+ - I'm actually an INTP-T (if you care about it) 
+
+![image](https://github.com/user-attachments/assets/4d63f4c0-96e1-43d7-8bde-3b3a91efcebd)
 
 </p>
 
