@@ -1,6 +1,7 @@
 <h2 align="left">Hey! Welcome to my GitHub Account!</h2>
 
 ###
+![image](https://github.com/user-attachments/assets/4d63f4c0-96e1-43d7-8bde-3b3a91efcebd)
 
 <p align="left">
 - Hi, I'm Akin, A.K.A. Wesley!
