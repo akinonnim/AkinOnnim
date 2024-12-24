@@ -1,16 +1,3 @@
-      - name: Ensure output branch exists
-        run: |
-          git fetch origin
-          if ! git rev-parse --verify origin/output; then
-            git checkout --orphan output
-            git rm -rf .
-            echo "# Output branch initialized" > README.md
-            git add README.md
-            git commit -m "Initialize output branch"
-            git push origin output
-          fi
- name: Generate snake animation
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
