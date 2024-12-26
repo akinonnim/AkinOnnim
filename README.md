@@ -6,9 +6,11 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/bce9adf0b63e79923cd9c1d0fac2086eaa2c1d30757965e6c48fb4df5dd55a5a/68747470733a2f2f696d67312e7069636d69782e636f6d2f6f75747075742f7374616d702f6e6f726d616c2f352f392f362f352f323338353639355f66343234342e676966"  />
-</div>
+<p align="right">Gengar is my favorite pokémon!</p>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/bce9adf0b63e79923cd9c1d0fac2086eaa2c1d30757965e6c48fb4df5dd55a5a/68747470733a2f2f696d67312e7069636d69782e636f6d2f6f75747075742f7374616d702f6e6f726d616c2f352f392f362f352f323338353639355f66343234342e676966"  />
 
 ###
 
@@ -34,9 +36,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-g-oliveira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=%20%20LinkedIn&logo=linkedin&label=Findo%20Me%20on&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="https://outlook.live.com/mail/0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20E-Mail&logo=microsoft-outlook&label=Send%20Me%20an&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -48,7 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=akinonnim&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=akinonnim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=akinonnim&theme=dark_lover&column=8&row=1&margin-w=19&margin-h=4&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akinonnim&theme=arctic&radius=16&area=true&hide_title=false&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
