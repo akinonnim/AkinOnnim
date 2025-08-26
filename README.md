@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/akinonnim/count.svg?"  />
+  <img src="https://i2.wp.com/couchpimps.com/wp-content/uploads/2020/04/Black-Man-Afro-Chad.png?fit=300%2C243&ssl=1"  />
 </div>
 
 ###
