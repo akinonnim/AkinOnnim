@@ -1,4 +1,7 @@
-<h1 align="center">Hi! My name is Wesley - AKA Akin.</h1>
+<h1 align="center">Hi! My name is Wesley - A.K.A Akin.</h1>
+###
+
+Systems Analyst & Developer
 
 ###
 
