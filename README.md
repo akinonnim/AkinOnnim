@@ -104,6 +104,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=akinonnim&theme=dark_lover&column=4&row=3&margin-w=1&margin-h=11&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akinonnim&radius=16&theme=react&area=true&order=5&point=30a14e&line=9be9a8&bg_color=0d1117" height="150" alt="activity-graph graph"  />
